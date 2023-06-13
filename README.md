@@ -1,4 +1,4 @@
-- 👩🏽‍💻 Hi, I’m @NaomiJoanne
+- 👩🏽‍💻 Hi, I’m Naomi Joanne
 - 👀 I’m interested in 3D art and coding
 - 🌱 I’m currently learning Blender✨ and a bunch of languages
 
