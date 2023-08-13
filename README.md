@@ -1,6 +1,6 @@
 - 👩🏽‍💻 Hi, I’m Naomi Joanne
 - 👀 I’m interested in 3D art and coding 
-- 🌱 I’m currently learning how to use blender ✨
+- 🌱 I’m currently discovering blender ✨
 
 <!---
 NaomiJoanne/NaomiJoanne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
